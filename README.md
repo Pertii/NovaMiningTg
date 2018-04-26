@@ -1,10 +1,10 @@
 # BENVENUTI in NOVAMINING ITALIA 
-https://t.me/novaminingitalia
+<h3>https://t.me/novaminingitalia</h3>
 
 <a href="http://novamining.io/">Sito Ufficiale</a><br> (Coming Soon)
-<a href="https://t.me/novamininginternational">Gruppo Telegram Internazionale</a>
-<a href="https://discord.gg/WedqYnr">Server Discord</a>
-<a href="https://www.facebook.com/novamining.xnm/">Pagina Ufficiale Facebook</a>
+<a href="https://t.me/novamininginternational">Gruppo Telegram Internazionale</a><br>
+<a href="https://discord.gg/WedqYnr">Server Discord</a><br>
+<a href="https://www.facebook.com/novamining.xnm/">Pagina Ufficiale Facebook</a><br>
 <a href="https://www.facebook.com/groups/novaminingitalia">Gruppo Facebook Italiano</a><br>
 <a href="https://www.facebook.com/groups/novamininginternational">Gruppo Facebook Internazionale</a><br>
 
