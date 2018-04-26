@@ -11,7 +11,7 @@
 
 <h2> Regole del gruppo:</h2>
 
-<b>1.</b> L'unica lingua parlata in questo gruppo è <b>l'Italiano</b>
+<b>1.</b> L'unica lingua parlata in questo gruppo è <b>l'Italiano</b><br>
 <i>ANGLOPHONE USERS JOIN US AT ( https://t.me/novamininginternational );</i>
 
 <b>2.</b> Parliamo <b>solo</b> di NovaMining e della sua ICO;
@@ -45,7 +45,7 @@ Riceverete entro domattina, dopo approvazione dei Legal Advisor, NDA da firmare 
 <b>Dove trovo il Whitepaper?</b>
 Stiamo lavorando sodo per rendervi il whitepaper disponibile a breve. Non appena i beta tester termineranno il loro lavoro, il sito verrà reso disponibile con all'interno la prima versione del whitepaper di NovaMining
 
-<b>Quando sarà online il sito?/b>
+<b>Quando sarà online il sito?</b>
 Il sito è già online. Non appena sarà conclusa la fase di testing, il sito web verrà reso visibile a chiunque.
 
 <h3>ultimo aggiornamento: 26-04-2018</h3>
